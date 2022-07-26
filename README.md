@@ -24,3 +24,9 @@ RandomForestClassifier was used as the final model and after boosting, an accura
 
 # Conclusion
 The data showed that race and gender played a major factor in a person being arrested or frisked. Whites account 64.5% of Seattle population and 48.9% of the terry stops but only 4.3% of the arrest or frisk. On the other hand, Asians account for 14.9% of Seattle population and 3.2% of the total terry stops, but 30% of their terry stop population end in arrest or frisk. Whites have the highest total population and highest terry stop percentage, even after combining all the other races' total numbers, but they account for the one of the lowest arrest or frisked numbers.
+
+## Additional Information
+ * [Presentation Slides]("The_Talk_PP.pdf")
+ * [Data Source One](https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8)
+ * [Data Source Two](https://www.seattle.gov/opcd/population-and-demographics/about-seattle#raceethnicity)
+ 
